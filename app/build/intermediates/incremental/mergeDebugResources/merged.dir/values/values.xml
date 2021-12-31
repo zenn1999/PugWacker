@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PugWacker</string>
+    <string name="exit">Exit</string>
+    <string name="hello">Hello World, PugWackerActivity!</string>
+    <string name="newgame">New Game</string>
+</resources>

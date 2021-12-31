@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.workspace.PugWacker"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <application
+        android:icon="@drawable/pug2"
+        android:label="@string/app_name" android:debuggable="true"
+        tools:ignore="HardcodedDebugMode"
+        android:allowBackup="false">
+        <activity android:name=".Game" />
+        <activity
+            android:label="@string/app_name"
+            android:name=".PugWackerActivity"
+            android:screenOrientation="landscape"
+            android:exported="true">
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

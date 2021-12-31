@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\zenn1\\StudioProjects\\PugWacker\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zenn1\\StudioProjects\\PugWacker\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,6,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "185,279,118,233",
+                        "endColumns": "46,37,65,44",
+                        "endOffsets": "227,312,179,273"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,102,140,206",
+                        "endColumns": "46,37,65,44",
+                        "endOffsets": "97,135,201,246"
+                    }
+                }
+            ]
+        }
+    ]
+}
